@@ -5,9 +5,21 @@
   <img src= "https://1000logos.net/wp-content/uploads/2020/09/JavaScript-Logo-2048x1280.png" width="100">
 </div>
 
-<!--
+...
 
+nome = "victor miguel"
+habilidades= array[
+"iniciante ,
+"web desenvolvedor",
+"Em busca de mais conhecimento",
+"preguiçoso"
+]
 
+...
 
--->
+...
 
+print("ola,me chamo" +nome + "!")
+print("." + habilidades)
+
+<h2>Seja bem vindo</h2>
